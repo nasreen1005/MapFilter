@@ -1,0 +1,101 @@
+{"type":"FeatureCollection","features":[{  
+         "type":"Feature",
+         "geometry":{  
+            "type":"About a Boy",
+            "coordinates":[  
+               -122.408421,
+               37.789119
+            ],
+            "location":"Powell from Bush and Sutter",
+            "filter":"About a Boy"
+         },
+         "properties":{  
+            "shower":true,
+            "vault":false,
+            "releaseyear":"2014",
+            "title":"About a Boy",
+            "prodcompany":"NBC Studios",
+			"director":"Mark J. Kunerth"
+         }
+      },
+      {  
+         "geometry":{  
+            "type":"About a Boy",
+            "coordinates":[  
+               -122.464062,
+               37.803907
+            ],
+            "location":"Crissy Field",
+            "filter":"About a Boy"
+         },
+         "properties":{  
+            "shower":true,
+            "vault":false,
+            "releaseyear":"2014",
+            "title":"About a Boy",
+            "prodcompany":"NBC Studios",
+			"director":"Mark J. Kunerth"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"180",
+            "coordinates":[  
+               -122.389042,
+               37.790493
+            ],
+            "location":"Epic Roasthouse (399 Embarcadero)",
+            "filter":"180"
+         },
+         "properties":{  
+            "shower":false,
+            "vault":true,
+            "releaseyear":"2014",
+            "title":"180",
+            "prodcompany":"SPI Cinemas",
+			"director":"Jayendra"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"180",
+            "coordinates":[  
+               -122.410843,
+               37.791842
+            ],
+            "location":"Mason & California Streets (Nob Hill)",
+            "filter":"180"
+         },
+         "properties":{  
+            "shower":false,
+            "vault":true,
+            "releaseyear":"2011",
+            "title":"180",
+            "prodcompany":"SPI Cinemas",
+			"director":"Jayendra"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"180",
+            "coordinates":[  
+               -122.395201,
+               37.795119
+            ],
+            "location":"Justin Herman Plaza",
+            "filter":"180"
+         },
+         "properties":{  
+            "shower":false,
+            "vault":true,
+            "releaseyear":"2011",
+            "title":"180",
+            "prodcompany":"SPI Cinemas",
+			"director":"Jayendra"
+         }
+      }
+   ]
+}
